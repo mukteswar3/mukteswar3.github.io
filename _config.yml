@@ -12,13 +12,13 @@ primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/mukteswar3
+   url:ttps://github.com/mukteswar3
  - title: StackOverflow
-   url: https://stackoverflow.com/users/2165875/mukti
+   url:https://stackoverflow.com/users/2165875/mukti
  - title: DZone
-   url: https://dzone.com/users/3071100/mukteswar3.html
+   url:https://dzone.com/users/3071100/mukteswar3.html
  - title: LinkedIn
-   url: https://www.linkedin.com/in/mukteswar-sahu-csm%C2%AE-distributed-prg-96307722/
+   url:https://www.linkedin.com/in/mukteswar-sahu-csm%C2%AE-distributed-prg-96307722/
 
 #Any buzzword skills you want to include
 skills:
