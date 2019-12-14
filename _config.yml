@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Mukteswar Sahu
+twitter_username: mukteswar3
+name: Mukteswar Sahu
 
 # Build settings
 markdown: kramdown
@@ -12,11 +12,11 @@ primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/mukteswar3
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: https://stackoverflow.com/users/2165875/mukti
  - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://dzone.com/users/3071100/mukteswar3.html
  - title: LinkedIn
    url: www.linkedin.com/in/mukteswar-sahu-csm®-distributed-prg-96307722
 
